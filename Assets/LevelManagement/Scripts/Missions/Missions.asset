@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ed924d22d3bbe41b24f73d7622e579, type: 3}
+  m_Name: Missions
+  m_EditorClassIdentifier: 
+  _missions:
+  - _name: Level 1
+    _description: 'Lorem Ipsum has been the industry''s standard dummy text ever
+      since the 1500s, when an unknown printer took a galley of type and scrambled
+      it to make a type specimen book. '
+    _sceneName: Level1
+    _id: L1
+    _image: {fileID: 21300000, guid: a9784636f08b5304fb32491648f499aa, type: 3}
+  - _name: Level 2
+    _description: 'Lorem Ipsum has been the industry''s standard dummy text ever
+      since the 1500s, when an unknown printer took a galley of type and scrambled
+      it to make a type specimen book. '
+    _sceneName: Level2
+    _id: L2
+    _image: {fileID: 21300000, guid: 56c81c7c4954b0b408b235489b79d02c, type: 3}
+  - _name: Level 3
+    _description: 'Lorem Ipsum has been the industry''s standard dummy text ever
+      since the 1500s, when an unknown printer took a galley of type and scrambled
+      it to make a type specimen book. '
+    _sceneName: Level3
+    _id: L3
+    _image: {fileID: 21300000, guid: f92a9d41b979f0e40b52a35b69b1c7f6, type: 3}
